@@ -1,0 +1,7 @@
+streamlit
+st-supabase-connection
+supabase
+pandas
+plotly
+pypdf
+reportlab
