@@ -100,4 +100,3 @@ with col2:
                 file_name=f"EDITADO_{archivo.name}",
                 mime="application/pdf"
             )
-``
