@@ -7,12 +7,12 @@ import zipfile
 
 # --- CONFIGURACIÓN ---
 st.set_page_config(
-    page_title="Gestión Asistencial - FOMAG",
+    page_title="FOMAG - PDF EDITOR",
     page_icon="🏥",
     layout="wide"
 )
 
-st.title("🏥 Procesador Masivo de Formatos - Goleman's")
+st.title("🏥 Procesador Masivo de Formatos - Goleman")
 st.markdown("""
 Esta herramienta aplica el estampado de **Nombre del Cliente** y **Convenio**
 directamente sobre PDFs escaneados (sin campos editables).
